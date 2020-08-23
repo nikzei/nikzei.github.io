@@ -1,0 +1,9 @@
+nav:
+  - text: "About"
+    url: about
+  - text: "Contact"
+    url: contact
+  - text: "Resume"
+    url: resume
+  - text: "Twitter"
+    url: https://twitter.com/nikzei

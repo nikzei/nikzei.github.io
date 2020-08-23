@@ -1,0 +1,10 @@
+body{
+  @include u-bg('red-30v');
+}
+.paper{
+  @include u-bg('gray-cool-5');
+  background: rgb(237,239,240);
+  background: linear-gradient(35deg, rgba(237,239,240,1) 80%, rgba(195,235,250,1) 100%);
+  @include u-position('relative');
+  @include u-minh('viewport');
+}

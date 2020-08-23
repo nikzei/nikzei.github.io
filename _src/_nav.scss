@@ -1,0 +1,37 @@
+.nav{
+  @include u-margin-bottom(5);
+  @include at-media('tablet') {
+    @include u-margin-y(2);
+  }
+  ul{
+    li{
+      @include u-display('inline-block');
+      @include u-font('sans', 'sm');
+      @include at-media('tablet') {
+        @include u-display('block');
+        @include u-font('sans', 'md');
+      }
+      a{
+        @include u-padding('05');
+        @include at-media('tablet') {
+          @include u-padding-y('105');
+          @include u-padding-x(0);
+          @include u-display('block');
+          @include u-border-top('1px', 'base-light','solid');
+          @include u-text('black');
+        }
+        @include u-text('light');
+        @include u-text('no-underline');
+        
+        &:hover{
+          span{
+            @include u-border-bottom('2px', 'primary-vivid','solid');
+          }
+        }
+      }
+      &:first-child a{
+        @include u-padding-left(0);
+      }
+    }
+  }
+}

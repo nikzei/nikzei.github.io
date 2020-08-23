@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<main id="main" class="page">
+  <div class="grid-container grid-container-desktop-lg">
+    
+    <div class="grid-row grid-gap-6">
+      <div class="grid-col-12 tablet:grid-col-3">
+
+        {% include nav.html %}
+
+      </div>
+      <div class="grid-col-12 tablet:grid-col-9">
+        <div class="head">
+          <h1>{{ page.title | escape }}</h1>
+          {% if page.deck %}
+            <div class="deck"><span>{{ page.deck }}</span></div>
+          {% endif %}
+        </div>
+        
+        <article>
+          <div class="content usa-prose">
+            
+            {% if page.image == true %}
+              <img class="media {% if page.image_layout == "right" %}media-right{% endif %}" src="{{ page.image }}" alt="{{ page.title | escape }}">
+            {% endif %}
+
+            {{ content }}
+          </div>
+        </article>
+      </div>
+    </div>
+    
+  </div>
+</main>
