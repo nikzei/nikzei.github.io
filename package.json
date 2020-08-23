@@ -1,5 +1,5 @@
 {
-  "name": "jeremyzilar.com",
+  "name": "NikkiZeichner.com",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremyzilar/jeremyzilar.com.git"
+    "url": "git+https://github.com/nikzei/nikzei.github.io.git"
   },
   "author": "Jeremy Zilar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeremyzilar/jeremyzilar.com/issues"
+    "url": "https://github.com/nikzei/nikzei.github.io/issues"
   },
-  "homepage": "https://github.com/jeremyzilar/jeremyzilar.com#readme"
+  "homepage": "https://github.com/nikzei/nikzei.github.io#readme"
 }
