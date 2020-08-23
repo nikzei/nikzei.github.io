@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-deck: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+deck: Creating meaningful change through empowering people, developing practices, and modernizing services.
 ---
 
 Here are some of the things that I do: 
