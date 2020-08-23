@@ -19,3 +19,5 @@ Before working in the federal government, I worked in a similar capacity at the 
 
 
 [View my resume](/resume).
+
+![Photo: Nikki Zeichner](/assets/img/nikki-zeichner.jpg)
