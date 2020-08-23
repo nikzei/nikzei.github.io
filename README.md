@@ -7,6 +7,20 @@ http://nikzei.github.io/
 
 ---
 
+## Writing and Editing
+
+**Note:** This site uses Markdown, a plain text formatting language.
+
+- [Basic writing and formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+**The Home page** for this site is the `index.md` file in the root of the repo: https://github.com/nikzei/nikzei.github.io
+
+**Pages** for this site are located in the `_pages` folder: https://github.com/nikzei/nikzei.github.io/tree/master/_pages
+
+**Navigation** can be edited in the `_data/nav.yml` file: https://github.com/nikzei/nikzei.github.io/tree/master/_data
+
+**Resume data** can be edited in the `_data/work.yml` file: https://github.com/nikzei/nikzei.github.io/tree/master/_data
 
 ## Images
 
