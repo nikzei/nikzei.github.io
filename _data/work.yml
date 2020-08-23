@@ -1,0 +1,49 @@
+experience:
+  - job: 18f
+    title: "Strategist / Innovation Specialist [GS15]"
+    company: "18F"
+    date_start: "May 2016"
+    date_end: "Apr 2017"
+    location: New York, NY (Remote)
+    desc: |
+      Led cross-functional teams, at 18F through user-research and strategy engagements on mission-critical projects with government agencies (federal, state, local, tribal). Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
+    sites:
+      https://18f.gsa.gov: 18F
+      https://18f.gsa.gov/how-we-work/: 18F — How we work
+      https://content-guide.18f.gov/: 18F — Content Guide
+      http://handbook.18f.gov/: 18F Handbook
+      https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Modular%20Contracting.pdf: "Getting things done in government"
+      https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Strangler%20Pattern.pdf: Strangler Pattern, illustrated
+
+
+
+education:
+  - school: rmcad
+    date_start: "Jun 2005"
+    date_end: "Apr 2006"
+    name: "The Rocky Mountain College of Art and Design"
+    degree: "BFA, Painting, Drawing, and Digital Media"
+
+  - school: sva
+    date_start: "2005"
+    date_end: "2006"
+    name: "The School of Visual Arts"
+    degree: "Courses in design and typography"
+
+volunteer:
+  - job: brooklynrail
+    title: "Board Member"
+    company: "The Brooklyn Rail"
+    date_start: "Jan 2018"
+    date_end: "Present"
+    name: "The Brookyn Rail"
+    desc: |
+      I serve as the strategic design partner and guide for the Brooklyn Rail and help them to improve the way they work by creating and implementing new physical and digital workflows, rhythms, and communication that better serve the goals of the Rail and improve the quality and efficiency of artwork, products, brands, services, and artistic environments.
+
+      I have been improving the Rail's online presence to make it more accessible, mobile-friendly, and sustainable for the team.
+
+    sites:
+      https://brooklynrail.org/: Brooklyn Rail
+      https://brooklynrail.org/2019/12/art/DAVID-LYNCH-with-Phong-Bui: Brooklyn Rail Article Page
+      https://venice.brooklynrail.org/: 2019 Venice Biennale
+
