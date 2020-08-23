@@ -12,12 +12,17 @@ http://nikzei.github.io/
 
 **To add images in a markdown file**:
 1. add the image to the `/assets/img/` folder
-2. insert this bit of markdown into the body of page you're creating, ```![Photo: Nikki Zeichner](/assets/img/nikki-zeichner.jpg)```
+2. insert this bit of markdown into the body of page you're creating, 
+```![Photo: Nikki Zeichner](/assets/img/nikki-zeichner.jpg)```
 
 **To set an image as the featured image**:
 1. add the image to the `/assets/img/` folder
-2. insert this bit into the front matter of the page ```image: /assets/img/nikki-zeichner.jpg
-image_layout: right``` There are three layout options for the featured image `right`, `wide`, and `none`.
+2. insert this bit into the front matter of the page 
+```
+image: /assets/img/nikki-zeichner.jpg
+image_layout: right
+``` 
+There are three layout options for the featured image `right`, `wide`, and `none`.
 
 ## Development
 

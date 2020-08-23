@@ -11,8 +11,6 @@ I am a design researcher and strategist focused on improving the experience of p
 
 I am both a practiciing artist and former public interest lawyer, and was named a Legal Rebel by the American Bar Association and I continue to work on problems that sit at the intersection of law, technology, and expression.
 
-![Photo: Nikki Zeichner](/assets/img/nikki-zeichner.jpg)
-
 ## Contact
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nikki-zeichner-82689412) and [Twitter](https://twitter.com/nikzei).
