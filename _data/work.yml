@@ -6,13 +6,12 @@ experience:
     date_end: "Apr 2020"
     location: San Francisco, CA (Remote)
     desc: |
-      Led cross-functional teams I led cross functional teams on consulting engagements and builds covering a wide array of topics - from upgrading legacy systems to designing shared services to improving how federal privacy offices protect the public's personal information. I performed design, market, and policy research; I facilitated stakeholder workshops; co-designed and tested prototypes; developed product roadmaps; and coached government teams in applying human centered design practices and agile methods to their work. Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
+      Led cross-functional teams on early stage product and service design consulting engagements covering a wide array of topics - from upgrading legacy systems to designing shared services to improving how federal privacy offices protect the public's personal information. I performed design, market, and policy research; I facilitated stakeholder workshops; co-designed and tested prototypes; developed product roadmaps; and coached government teams in applying human centered design practices and agile methods to their work. Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open. here are some of the public-facing projects that I worked on:
     sites:
-      https://18f.gsa.gov: 18F
-      https://18f.gsa.gov/how-we-work/: 18F — How we work
-      https://civilrights.justice.gov/: Work sample: Civil Rights Complaint Portal, DOJ
-      https://github.com/18F/CAMD-resources: Work sample: Product + Human-Centered Design methods resource guide, EPA Clean Air Markets Division 
-      https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/: Work sample: GSA PII Inventory dashboard
+      https://civilrights.justice.gov/: Civil Rights Complaint Portal, DOJ
+      https://github.com/18F/CAMD-resources: Product + Human-Centered Design methods resource guide, EPA Clean Air Markets Division 
+      https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/: GSA PII Inventory dashboard
+      https://cloud.gov/: cloud.gov
 
   - job: Example
     title: "Job Title"
