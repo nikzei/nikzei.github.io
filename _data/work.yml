@@ -1,22 +1,21 @@
 experience:
-  - job: 18f
-    title: "Strategist / Innovation Specialist [GS15]"
+  - job: 18F
+    title: "Design Strategist + Product Manager / Innovation Specialist [GS15]"
     company: "18F"
     date_start: "May 2016"
-    date_end: "Apr 2017"
-    location: New York, NY (Remote)
+    date_end: "Apr 2020"
+    location: San Francisco, CA (Remote)
     desc: |
-      Led cross-functional teams, at 18F through user-research and strategy engagements on mission-critical projects with government agencies (federal, state, local, tribal). Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
+      Led cross-functional teams I led cross functional teams on consulting engagements and builds covering a wide array of topics - from upgrading legacy systems to designing shared services to improving how federal privacy offices protect the public's personal information. I performed design, market, and policy research; I facilitated stakeholder workshops; co-designed and tested prototypes; developed product roadmaps; and coached government teams in applying human centered design practices and agile methods to their work. Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
     sites:
       https://18f.gsa.gov: 18F
       https://18f.gsa.gov/how-we-work/: 18F — How we work
-      https://content-guide.18f.gov/: 18F — Content Guide
-      http://handbook.18f.gov/: 18F Handbook
-      https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Modular%20Contracting.pdf: "Getting things done in government"
-      https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Strangler%20Pattern.pdf: Strangler Pattern, illustrated
+      https://civilrights.justice.gov/: Work sample: Civil Rights Complaint Portal, DOJ
+      https://github.com/18F/CAMD-resources: Work sample: Product + Human-Centered Design methods resource guide, EPA Clean Air Markets Division 
+      https://cg-9341b8ea-025c-4fe2-aa6c-850edbebc499.app.cloud.gov/site/18f/privacy-dashboard/: Work sample: GSA PII Inventory dashboard
 
   - job: Example
-    title: "Job Ritle"
+    title: "Job Title"
     company: "ORG"
     date_start: "Jan 2016"
     date_end: "Present"
@@ -29,17 +28,24 @@ experience:
       
 
 education:
-  - school: rmcad
-    date_start: "Jun 2005"
-    date_end: "Apr 2006"
-    name: "The Rocky Mountain College of Art and Design"
-    degree: "BFA, Painting, Drawing, and Digital Media"
+  - school: NYU
+    date_start: "September 2013"
+    date_end: "December 2014"
+    name: "NYU, Tandon School of Engineering"
+    degree: "MS, Integrated Digital Media"
 
-  - school: sva
-    date_start: "2005"
-    date_end: "2006"
-    name: "The School of Visual Arts"
-    degree: "Courses in design and typography"
+  - school: CUNY
+    date_start: "September 2003"
+    date_end: "May 2006"
+    name: "CUNY School of Law"
+    degree: "JD, Law in the service of human needs"
+    
+    - school: Barnard
+    date_start: "September 1997"
+    date_end: "May 2001"
+    name: "Barnard College, Columbia University"
+    degree: "BA cum laude, Philosophy"
+
 
 volunteer:
   - job: brooklynrail
