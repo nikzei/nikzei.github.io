@@ -27,19 +27,24 @@ experience:
       
 
 education:
-  - school: "NYU"
+  - school: NYU
     date_start: "September 2013"
     date_end: "December 2014"
     name: "NYU, Tandon School of Engineering"
     degree: "MS, Integrated Digital Media"
+    sites:
+      Peter Barker-Homek Women in Technology Fellowship
+      Graduate Innovation Fellowship
 
-  - school: "CUNY"
+  - school: CUNY
     date_start: "September 2003"
     date_end: "May 2006"
     name: "CUNY School of Law"
     degree: "JD, Law in the service of human needs"
+    sites:
+      Charles H. Revson Law Student Public Interest Fellowship
     
-    - school: "Barnard"
+  - school: Barnard
     date_start: "September 1997"
     date_end: "May 2001"
     name: "Barnard College, Columbia University"
