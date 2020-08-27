@@ -1,15 +1,13 @@
 ---
 layout: home
 title: Nikki Zeichner
-deck: "I focus on helping teams make meaningful change through modernizing their practices and services."
+deck: "Hi. I'm Nikki. I help organizations make products and services that are human-centered, privacy-minded and grounded in research."
 image: /assets/img/nikki-zeichner.jpg
 image_layout: right
 # image_layout: wide
 ---
 
-I am a design researcher and strategist focused on improving the experience of public services and a fellow at [New America Foundation](https://www.newamerica.org/our-people/nikki-zeichner/). I recently completed a four year term as a strategist at [18F](https://18f.gsa.gov/), where I led digital transformation engagements with government agencies and most recently partnered with the GSA’s privacy office to modernize how they safeguard the personal information they collect from the public.
-
-I am both a practiciing artist and former public interest lawyer, and was named a Legal Rebel by the American Bar Association and I continue to work on problems that sit at the intersection of law, technology, and expression.
+I am a design researcher, product manager, and lawyer, currently focused on improving the experience of public services. I recently completed a four year term as a product manager at [18F](https://18f.gsa.gov/), where I led digital transformation engagements with government agencies and developed [internally funded](https://10x.gsa.gov/) r&d projects. I was named a [Legal Rebel](https://www.abajournal.com/legalrebels/article/nikki_zeichner_profile) by the American Bar Association in 2015 and I continue to work on problems that sit at the intersection of law, technology, and expression.
 
 ## Contact
 
